@@ -1,31 +1,29 @@
-# Tinybird Forward » Hackathon
-You have 24 hours to build something incredible.
+# Tinybird Forward » Hackathon | Win >$3000 in devtools credits from Tinybird, Vercel, Dub, Resend, and more.
+Tinybird just launched [Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_campaign=Forward%20Launch), a reimagined developer experience that makes shipping software with big data requirements faster and more intuitive than ever.
+
+We challenge you to build something incredible in 48 ~~hours~~ minutes. Win >$3000 in prizes from amazing devtools like Vercel, Dub, Resend, Plain, and more.
+
+More details below...
 
 ## How to play
-Tinybird just launched Forward, a reimagined developer experience that changes the way you work with data. Build something (anything) and deploy it to Tinybird before March 15th, 2025 at 12 PM EDT to win a...
+The Forward Hackathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 19th.** You will have **48 minutes** to ship something.
 
-## How to submit
-To submit, create a Pull Request to this repository with your project code.
-
-Submissions must include the following:
-- All code for your Tinybird data project and accompanying application, if applicable.
-- At least one (1) Tinybird data source and one (1) Tinybird API endpoint.
-- A simple but coherent README describing what you created and why you think it's worthy.
-- A link to a live, deployed demo (or clear instructions on how to deploy the application code).
-
-## How entries will be judged
-A panel of five (5) Tinybird employees will rate each submission on the following:
-- **Speed**: The earlier you submit, the higher you score.
-- **Creativity**: How novel is your submission?
-- **Usefulness**: How badly do we want to fork it and use it ourselves?
-- **Scale & Performance**: How does the app or service perform under load (data volume + query concurrency)?
-
-## Winners
-Each judge will rate each submission on a scale of 0 - 10 for the criteria above. The submission with the highest aggregate score from all judges will win the Grand Prize. The submissions with the 2nd- and 3rd-highest aggregate scores will win Runner Up Prizes. In the event of a tie, the panel of judges will vote to select the winner(s).
+Watch this repo for more details.
 
 ## Prizes
-**Grand Prize**: TBD
-**Runner Up Prize**: TBD
+**One (1) Grand Prize: Over $3000 in credits from these awesome devtools**:
+- [Tinybird](https://tinybird.co) -> Get 3 months free on any Developer plan ($897 value)
+- [Vercel](https://vercel.com) -> Get $100/month credits for 6 months ($600 value)
+- [Dub](https://dub.co) -> $100 in credits
+- [Resend](https://resend.com) -> 2 months Pro free ($40 value)
+- [Plain](https://plain.com) -> $100 in credits
+- [Bucket](https://bucket.co) -> 6 months Pro free ($750 value)
+- [Knock](https://knock.app) -> 2 months free ($500 value)
+- [Trigger](https://trigger.dev) -> $100 in credits
+- [Blacksmith](https://blacksmith.sh/)) -> $100 in credits
+- [Estuary](https://estuary.dev) -> $100 in credits
+  
+**Two (2) Runner Up Prizes: 3 months free from Tinybird (Up to $897 value)**
 
 ## Lawyer stuff
 - Don't cheat.
