@@ -1,4 +1,4 @@
-# Tinybird Forward » Hackathon
+# Tinybird Forward » ~Hack~Vibe-athon
 ![Tinybird Forward Hackathon Banner](img/banner.png)
 
 Your challenge: build something with [Tinybird Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_source=github&utm_campaign=Forward%20Launch&utm_content=hackathon) in 48 ~~hours~~ minutes. Win >$3000 in prizes from amazing devtools like Vercel, Dub, Resend, Plain, and more.
@@ -6,7 +6,7 @@ Your challenge: build something with [Tinybird Forward](https://www.tinybird.co/
 More details below...
 
 ## How to play
-The Forward Hackathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 26th.** You will have **48 minutes** to ship something.
+The Forward Vibeathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 26th.** You will have **48 minutes** to ship something.
 
 Watch this repo to stay tuned for the prompt reveal.
 
