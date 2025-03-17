@@ -1,4 +1,4 @@
-# Tinybird Forward » Hackathon | Win >$3000 in devtools credits from Tinybird, Vercel, Dub, Resend, and more.
+# Tinybird Forward » Hackathon
 ![Tinybird Forward Hackathon Banner](img/banner.png)
 
 Tinybird just launched [Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_campaign=Forward%20Launch), a reimagined developer experience that makes shipping software with big data requirements faster and more intuitive than ever.
