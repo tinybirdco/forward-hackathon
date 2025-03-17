@@ -1,4 +1,4 @@
-# Tinybird Forward » ~Hack~Vibe-athon
+# Tinybird Forward » ~Hack~ Vibeathon
 ![Tinybird Forward Hackathon Banner](img/banner.png)
 
 Your challenge: build something with [Tinybird Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_source=github&utm_campaign=Forward%20Launch&utm_content=hackathon) in 48 ~~hours~~ minutes. Win >$3000 in prizes from amazing devtools like Vercel, Dub, Resend, Plain, and more.
