@@ -8,7 +8,7 @@ We challenge you to build something incredible in 48 ~~hours~~ minutes. Win >$30
 More details below...
 
 ## How to play
-The Forward Hackathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 19th.** You will have **48 minutes** to ship something.
+The Forward Hackathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 26th.** You will have **48 minutes** to ship something.
 
 Watch this repo to stay tuned.
 
