@@ -1,16 +1,14 @@
 # Tinybird Forward » Hackathon
 ![Tinybird Forward Hackathon Banner](img/banner.png)
 
-Tinybird just launched [Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_campaign=Forward%20Launch), a reimagined developer experience that makes shipping software with big data requirements faster and more intuitive than ever.
-
-We challenge you to build something incredible in 48 ~~hours~~ minutes. Win >$3000 in prizes from amazing devtools like Vercel, Dub, Resend, Plain, and more.
+Your challenge: build something with [Tinybird Forward](https://www.tinybird.co/blog-posts/announcing-tinybird-forward?utm_source=github&utm_campaign=Forward%20Launch&utm_content=hackathon) in 48 ~~hours~~ minutes. Win >$3000 in prizes from amazing devtools like Vercel, Dub, Resend, Plain, and more.
 
 More details below...
 
 ## How to play
 The Forward Hackathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wednesday, March 26th.** You will have **48 minutes** to ship something.
 
-Watch this repo to stay tuned.
+Watch this repo to stay tuned for the prompt reveal.
 
 ## Prizes
 **One (1) Grand Prize: Over $3000 in credits from these awesome devtools**:
