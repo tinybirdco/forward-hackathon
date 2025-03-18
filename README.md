@@ -22,6 +22,7 @@ Watch this repo to stay tuned for the prompt reveal.
 - [Trigger](https://trigger.dev) -> $100 in credits
 - [Blacksmith](https://blacksmith.sh/) -> $100 in credits
 - [Estuary](https://estuary.dev) -> $100 in credits
+- LocalStack (https://www.localstack.cloud) -> $100 in credits
   
 **Two (2) Runner Up Prizes: 3 months free from Tinybird (Up to $897 value)**
 
