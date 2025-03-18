@@ -10,6 +10,23 @@ The Forward Vibeathon prompt will be revealed at **12 PM EDT | 1600 GMT on Wedne
 
 Watch this repo to stay tuned for the prompt reveal.
 
+## Start practicing!
+Start using Tinybird Forward to learn the ropes:
+
+```sh
+# Install the Tinybird CLI
+curl https://tinybird.co | sh
+
+# Login (or create a free account)
+tb login
+
+# Start the local container
+tb local start
+
+# Bootstrap your first version
+tb create --prompt "I'm building an app to monitor LLM token usage. Create the analytics backend with APIs to visualize token costs over time, costs per model, and total tokens used."
+```
+
 ## Prizes
 **One (1) Grand Prize: Over $3000 in credits from these awesome devtools**:
 - [Tinybird](https://tinybird.co) -> Get 3 months free on any Developer plan ($897 value)
